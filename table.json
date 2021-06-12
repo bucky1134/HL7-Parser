@@ -1,0 +1,4 @@
+//Put any table name with all standerd segment of hl7 message
+{
+"MSH":"hltestmsh"
+}
